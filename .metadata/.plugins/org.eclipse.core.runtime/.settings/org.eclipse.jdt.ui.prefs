@@ -1,0 +1,14 @@
+content_assist_autoactivation_delay=30
+content_assist_autoactivation_triggers_java=._abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000
+content_assist_favorite_static_members=
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="interface_demo.Animal"><rhs name\="interface_demo.Dog"/></lhs><lhs name\="interface_demo.Dog"><rhs name\="interface_demo.Dog"/></lhs><lhs name\="InterfaceDemo1"><rhs name\="TestClass"/></lhs><lhs name\="InterfaceDemo2"><rhs name\="TestClass"/></lhs><lhs name\="TestClass"><rhs name\="TestClass"/></lhs><lhs name\="Player"><rhs name\="TestClass"/></lhs><lhs name\="InterfaceDemo"><rhs name\="TestClass"/></lhs><lhs name\="TestInterface1"><rhs name\="TestClass1"/><rhs name\="TestClass2"/></lhs><lhs name\="TestClass1"><rhs name\="TestClass1"/><rhs name\="TestClass2"/></lhs><lhs name\="TestInterface2"><rhs name\="TestClass2"/></lhs><lhs name\="TestClass2"><rhs name\="TestClass2"/></lhs><lhs name\="Nurse"><rhs name\="Hospital"/><rhs name\="Patient"/></lhs><lhs name\="Doctor"><rhs name\="Hospital"/><rhs name\="Patient"/></lhs><lhs name\="Patient"><rhs name\="Hospital"/><rhs name\="Patient"/></lhs><lhs name\="Increase"><rhs name\="Hospital"/></lhs><lhs name\="Decrease"><rhs name\="Hospital"/></lhs><lhs name\="Hospital"><rhs name\="Hospital"/></lhs></history>
+content_assist_number_of_computers=19
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+markOccurrences=false
+org.eclipse.jdt.ui.formatterprofiles.version=18
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
